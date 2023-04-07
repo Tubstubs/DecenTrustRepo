@@ -6,6 +6,7 @@ The code presented in this github repository serves as the base for the connecti
 
 -   Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
 -   Install [Hardhat](https://hardhat.org/)
+-   Install [MetaMask](https://metamask.io/) browser extenstion
 
 ## Setting Up
 
@@ -51,3 +52,9 @@ $ npx hardhat test
 ```
 $ npm run start
 ```
+
+## Connecting Wallet
+
+### 8. Click the _"Connect Wallet"_ button
+
+### 9. Click the MetaMask extenstion and connect
